@@ -1,0 +1,6 @@
+/* Obsidianのフォント設定 */
+
+/* 編集画面のフォントとサイズ */
+.CodeMirror pre.CodeMirror-line {
+    font-family: Noto Sans JP;
+}
